@@ -1,0 +1,1 @@
+This project is an example of MVVM architecture pattern, which uses tools and libraries like Retrofit, , Kotlin Coroutines and coil. It recieves information from a public web service (https://rickandmortyapi.com/api/character). It is an ongoing project and it's gonna modified by time.
